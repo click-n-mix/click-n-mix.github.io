@@ -38,3 +38,18 @@ font-size: 22px;
 .navbar{background-color:pink;
 }
 
+.col-sm-4-simplysweet{font-size:250%;
+	text-align: center;
+	color:white;
+}
+.header-simplysweet{background-color:pink;
+	color:black;
+	font-size:500%;
+	text-align:left;
+}
+
+.grey{text-align:left;
+}
+
+.columns{font-size:50%;
+}

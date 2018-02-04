@@ -1,0 +1,42 @@
+body{background-color:pink;
+}
+
+h1{text-align:center;
+	color:white;
+	font-size:xx-large;
+}
+
+p{text-align:center;
+	color:white;
+	font-size: 150%;
+}
+
+.card-text{color:black;
+}
+
+.header{
+    background-color: #03a9f442;
+    text-align: center;
+    padding: 20px;
+    height:125px;
+    font-size: 500%;
+    }
+
+.card{border-width:5px;
+	border-style:solid;
+	border-color:#03a9f442;
+}
+
+.card-text{font-family:"Codystar";
+font-size: 22px;
+}
+
+.card-img-top{height: 250px;
+    width: 100%;
+}
+
+.navbar{background-color:pink;
+}
+
+.bg-light{background-color:pink;
+}
